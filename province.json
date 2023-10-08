@@ -1,0 +1,154 @@
+[
+  {
+    "nama": "ACEH",
+    "id": "11"
+  },
+  {
+    "nama": "SUMATERA UTARA",
+    "id": "12"
+  },
+  {
+    "nama": "SUMATERA BARAT",
+    "id": "13"
+  },
+  {
+    "nama": "RIAU",
+    "id": "14"
+  },
+  {
+    "nama": "JAMBI",
+    "id": "15"
+  },
+  {
+    "nama": "SUMATERA SELATAN",
+    "id": "16"
+  },
+  {
+    "nama": "BENGKULU",
+    "id": "17"
+  },
+  {
+    "nama": "LAMPUNG",
+    "id": "18"
+  },
+  {
+    "nama": "KEPULAUAN BANGKA BELITUNG",
+    "id": "19"
+  },
+  {
+    "nama": "KEPULAUAN RIAU",
+    "id": "21"
+  },
+  {
+    "nama": "DKI JAKARTA",
+    "id": "31"
+  },
+  {
+    "nama": "JAWA BARAT",
+    "id": "32"
+  },
+  {
+    "nama": "JAWA TENGAH",
+    "id": "33"
+  },
+  {
+    "nama": "DAERAH ISTIMEWA YOGYAKARTA",
+    "id": "34"
+  },
+  {
+    "nama": "JAWA TIMUR",
+    "id": "35"
+  },
+  {
+    "nama": "BANTEN",
+    "id": "36"
+  },
+  {
+    "nama": "BALI",
+    "id": "51"
+  },
+  {
+    "nama": "NUSA TENGGARA BARAT",
+    "id": "52"
+  },
+  {
+    "nama": "NUSA TENGGARA TIMUR",
+    "id": "53"
+  },
+  {
+    "nama": "KALIMANTAN BARAT",
+    "id": "61"
+  },
+  {
+    "nama": "KALIMANTAN TENGAH",
+    "id": "62"
+  },
+  {
+    "nama": "KALIMANTAN SELATAN",
+    "id": "63"
+  },
+  {
+    "nama": "KALIMANTAN TIMUR",
+    "id": "64"
+  },
+  {
+    "nama": "KALIMANTAN UTARA",
+    "id": "65"
+  },
+  {
+    "nama": "SULAWESI UTARA",
+    "id": "71"
+  },
+  {
+    "nama": "SULAWESI TENGAH",
+    "id": "72"
+  },
+  {
+    "nama": "SULAWESI SELATAN",
+    "id": "73"
+  },
+  {
+    "nama": "SULAWESI TENGGARA",
+    "id": "74"
+  },
+  {
+    "nama": "GORONTALO",
+    "id": "75"
+  },
+  {
+    "nama": "SULAWESI BARAT",
+    "id": "76"
+  },
+  {
+    "nama": "MALUKU",
+    "id": "81"
+  },
+  {
+    "nama": "MALUKU UTARA",
+    "id": "82"
+  },
+  {
+    "nama": "PAPUA",
+    "id": "91"
+  },
+  {
+    "nama": "PAPUA BARAT",
+    "id": "92"
+  },
+  {
+    "nama": "PAPUA SELATAN",
+    "id": "93"
+  },
+  {
+    "nama": "PAPUA TENGAH",
+    "id": "94"
+  },
+  {
+    "nama": "PAPUA PEGUNUNGAN",
+    "id": "95"
+  },
+  {
+    "nama": "PAPUA BARAT DAYA",
+    "id": "96"
+  }
+]
